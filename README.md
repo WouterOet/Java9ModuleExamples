@@ -1,7 +1,10 @@
 # Java 9 module examples
 
-## nl.quintor.java9.exports-example
+## nl.quintor.java9.exports
 The most basic example. Exports a single class. Requires none.
+
+## nl.quintor.java9.requires
+A very basic example. Exports nothing and requires one module.
 
 
 ## Compilation and running of the examples
