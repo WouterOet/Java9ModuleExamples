@@ -6,4 +6,4 @@ Dependency 'tree':
 
 A -> B -> C -> A
 
-Compile with javac -d dist -modulesourcepath . $(find . -name "*.java") from this directory.
+Compile with javac -d dist --module-source-path . $(find . -name "*.java") from this directory.
